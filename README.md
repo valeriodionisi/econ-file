@@ -11,7 +11,7 @@ To create a GitHub page URL to link a .pdf file, first create the ground followi
 Note that the repoisotry must be public; check the status in “Settings”, “General”, and at the bottom, in “Danger zone” section, “Change repository visibility” cell, there must be written “This repository is currently public”. Otherwise, simply click on the “Change visibility” button and turn the repository to public.
 
 #### Create a URL ####
-Then, to create a URL that directly links to a .pdf file, one should: 
+Then, to create a URL that directly links to a _<document_name>.pdf_ file, one should: 
   1. go to the repositories by clicking the profile image at top-right, and select "your repositories";
   2. open the desired repository where the file should be stored;
   3. in the "main" section, click "add file", and select the given file to upload. Then:
