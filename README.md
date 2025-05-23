@@ -8,7 +8,7 @@ To create a GitHub page URL to link a .pdf file, first create the ground followi
      - in _branch_, select the "main (or master)", "/(root)", and click on “save”;
   3. now, wait till the setup is done. You can check the status under _https://<your_username>.github.io/<repository_name>_. After the 404 error is gone, it is online.
 
-Note that the repoisotry must be public; check the status in “Settings”, “General”, and at the bottom, on “Danger zone”, “Change repository visibility”, there mus tbe written “This repository is currently public”.
+Note that the repoisotry must be public; check the status in “Settings”, “General”, and at the bottom, in “Danger zone” section, “Change repository visibility” cell, there must be written “This repository is currently public”. Otherwise, click and “Change visibility” button and turn it to public.
 
 #### Create a URL ####
 Then, to create a URL that directly links to a .pdf file, one should: 
